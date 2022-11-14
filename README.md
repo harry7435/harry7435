@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry7435)](https://github.com/harry/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harry7435)](https://github.com/harry7435/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry7435)](https://github.com/harry7435/github-readme-stats)
 
 <!--
 **harry7435/harry7435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
